@@ -1,4 +1,4 @@
-#Playing with reading in datasets using R 
+#Creating tidy datasets using R 
 
 ##To Run:
 
